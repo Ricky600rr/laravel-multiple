@@ -1,0 +1,2 @@
+# Laravel Multiple
+単一のLaravelプロジェクトに複数のプロジェクトを組み込む際の切り分けサンプル。
